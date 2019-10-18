@@ -8,6 +8,7 @@ class principal {
 		System.out.println("Olá turma");
 		System.out.println("GITHUB");
 		System.out.println("GIT");
+		System.out.println("Teste");
 	}
 
 }
