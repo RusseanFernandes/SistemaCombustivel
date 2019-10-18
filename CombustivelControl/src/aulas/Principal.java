@@ -5,9 +5,9 @@ class principal {
 	public static void main(String[] args) {
 		// meu primeiro commit
 		// valeu time
-		System.out.println("Ol· turma");
+		System.out.println("Ol√° turma");
 		System.out.println("GITHUB");
-
+		System.out.println("GIT");
 	}
 
 }
