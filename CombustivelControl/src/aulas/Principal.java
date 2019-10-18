@@ -6,6 +6,7 @@ class principal {
 		// meu primeiro commit
 		// valeu time
 		System.out.println("Olá turma");
+		System.out.println("GITHUB");
 
 	}
 
