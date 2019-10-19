@@ -2,10 +2,10 @@ package aulas;
 
 public class calcularAutonomia {
 
-	public float calcularAutonomia(float km, float litros){
+	public float calcularAutonomia(float kmRodado, float litros){
 		float Autonomia= 0.0F;
 			
-			Autonomia= km/litros;
+			Autonomia= kmRodado/litros;
 			return Autonomia;	
 	}
 }
